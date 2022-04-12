@@ -1,0 +1,7 @@
+/* Add here all your CSS customizations */
+
+@media print {
+    .sembunyi {
+        display: none;
+    }
+}
